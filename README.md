@@ -9,11 +9,10 @@ I'm passionate about building robust and scalable web applications across the fu
 ---
 
 <div align="center">
-  
-  ![Profile Details](https://github-stats-iota-ruddy.vercel.app/api/cards/profile-details?username=luanslimadev&theme=github_dark)
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 
   <p align="center">
-    <img src="https://github-stats-iota-ruddy.vercel.app/api/cards/stats?username=luanslimadev&theme=github_dark" alt="GitHub Stats" />
-    <img src="https://github-stats-iota-ruddy.vercel.app/api/cards/repos-per-language?username=luanslimadev&theme=github_dark" alt="Top Languages" />
+    <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" width="49%" />
+    <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="GitHub Stats" width="49%" />
   </p>
 </div>
